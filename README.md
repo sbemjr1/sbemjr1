@@ -3,4 +3,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sbemjr1)](https://solved.ac/sbemjr1/)
 <br></br>
-![sbemjr1's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbemjr1 icons=true&theme=radical)
+[![Sbemjr1's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbemjr1)](https://github.com/sbemjr1/github-readme-stats)
